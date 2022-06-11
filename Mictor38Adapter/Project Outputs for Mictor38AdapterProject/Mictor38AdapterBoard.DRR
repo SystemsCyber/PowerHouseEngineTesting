@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Mictor38AdapterBoard.PcbDoc   12/12/2021  5:01:20 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Mictor38AdapterBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      13mil (0.33mm)                                            Round             47        PTH        6.35inch (161.35mm)
+T2      32mil (0.81mm)                                            Round             5         PTH        0.40inch (10.16mm)
+T3      35mil (0.889mm)                                           Round             14        PTH        1.40inch (35.56mm)
+T4      70mil (1.778mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      150mil (3.81mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T6      40mil (1.02mm)                                            Round             2         NPTH       0.73inch (18.48mm)
+T7      94mil (2.39mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              71
+
+Total Processing Time (hh:mm:ss) : 00:00:00
